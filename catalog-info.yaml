@@ -4,6 +4,7 @@ metadata:
   name: BackstageTest
   annotations:
     github.com/project-slug: ZakGraham/BackstageTest
+    https://build.rightsapp.co.uk/job/Publishing-Dashboard/: publishingdashboard
 spec:
   type: other
   lifecycle: unknown
