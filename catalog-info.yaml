@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: ZakGraham/BackstageTest
     jenkins.io/job-full-name: Publishing-Dashboard
+    backstage.io/techdocs-ref: value
 spec:
   type: other
   lifecycle: unknown
