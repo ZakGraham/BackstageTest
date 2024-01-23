@@ -4,7 +4,7 @@ metadata:
   name: BackstageTest
   annotations:
     github.com/project-slug: ZakGraham/BackstageTest
-    https://build.rightsapp.co.uk/job/Publishing-Dashboard/: publishingdashboard
+    jenkins.io/job-full-name: https://build.rightsapp.co.uk/job/Publishing-Dashboard
 spec:
   type: other
   lifecycle: unknown
