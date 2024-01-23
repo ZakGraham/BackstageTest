@@ -4,7 +4,7 @@ metadata:
   name: BackstageTest
   annotations:
     github.com/project-slug: ZakGraham/BackstageTest
-    jenkins.io/job-full-name: Publishing-Dashboard/main
+    jenkins.io/job-full-name: Publishing-Dashboard
 spec:
   type: other
   lifecycle: unknown
